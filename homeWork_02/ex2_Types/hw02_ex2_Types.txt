@@ -1,0 +1,26 @@
+﻿public class TypesVariables { 
+
+    int numberOfShipsInPort // Количество кораблей в порту; 
+    int countInteger // Счетчик целых чисел; 
+    int firstInteger // Первое целое число; 
+    int randomNumber // Случайное целое число; 
+    double randomRealNumber // Случайное вещественное число; 
+    int vehicleSpeed // Скорость движения автомобиля; 
+    int UserEnteredInteger // Введенное пользователем целое число; 
+    int largestInteger // Наибольшее целое число; 
+    double smallestRealNumber // Наименьшее вещественное число; 
+    int leftBorderOfIntegersRange // Левая граница диапазона целых чисел; 
+    int rightBorderOfIntegersRange // Правая граница диапазона целых чисел; 
+    int userDefinedInteger // Загаданное пользователем целое число; 
+    int rightBorderRangeNumbers // Денежный баланс; 
+    byte theNumberOfWheelsOnBicycle // Количество колес у велосипеда; 
+    boolean manIsHungry // Голодный ли человек; 
+    char latinAlphabetSymbo // Символ латинского алфавита; 
+    double evenNumber // Четное ли число; 
+    String thisYear // Текущий год; 
+    String spaceSign // Знак пробела; 
+    double ticketPrice // Стоимость билета; 
+
+} 
+
+ 
