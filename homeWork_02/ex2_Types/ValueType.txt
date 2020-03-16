@@ -17,4 +17,4 @@ boolean parityCheck //Четное ли число
 boolean hungryCheck //Голодный ли человек
 char latinLetter //Символ латинского алфавита
 short currentYear //Текущий год
-String spaceSign //Знак пробела // String spaceSign = "\u0009";
+char spaceSign //Знак пробела // char spaceSign = "\u0009";
