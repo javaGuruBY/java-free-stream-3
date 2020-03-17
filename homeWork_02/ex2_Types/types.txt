@@ -1,5 +1,3 @@
-public class TypesVariables {
-
     int numberOfShipsInPort; // Количество кораблей в порту;
     int integerCount; // Счетчик целых чисел;
     int firstInteger; // Первое целое число;
@@ -20,5 +18,3 @@ public class TypesVariables {
     short thisYear; // Текущий год;
     char spaceSign; // Знак пробела;
     double ticketPrice; // Стоимость билета;
-
-}
