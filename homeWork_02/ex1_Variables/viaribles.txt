@@ -21,5 +21,4 @@
     wheelsBicycleAmount // Количество колес у велосипеда;
     ticketPrice // Стоимость билета;
      */
-
 }
