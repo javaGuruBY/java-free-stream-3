@@ -6,7 +6,7 @@
     int randomNumber; // Случайное целое число; 
     double randomRealNumber; // Случайное вещественное число; 
     float vehicleSpeed; // Скорость движения автомобиля;
-    int UserEnteredInteger; // Введенное пользователем целое число; 
+    int userEnteredInteger; // Введенное пользователем целое число;
     int largestInteger; // Наибольшее целое число; 
     double smallestRealNumber; // Наименьшее вещественное число; 
     int leftBorderOfIntegersRange; // Левая граница диапазона целых чисел; 
@@ -18,7 +18,7 @@
     char latinAlphabetSymbo; // Символ латинского алфавита; 
     boolean evenNumber; // Четное ли число;
     short thisYear; // Текущий год;
-    String spaceSign; // Знак пробела; 
+    char spaceSign; // Знак пробела;
     double ticketPrice; // Стоимость билета; 
 
 } 
