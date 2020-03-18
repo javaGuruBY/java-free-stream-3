@@ -1,4 +1,4 @@
-public class MathOperationsDemoTask3 {
+public class MathOperationsDemo {
     public static void main(String[] args) {
 
         double carPriceMercedes = 35000;       // стоимость автомобиля Мерседес.
