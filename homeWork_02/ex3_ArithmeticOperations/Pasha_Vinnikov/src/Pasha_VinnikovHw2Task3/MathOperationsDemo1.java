@@ -1,3 +1,5 @@
+package Pasha_VinnikovHw2Task3;
+
 public class MathOperationsDemo1 {
     public static void main(String[] args) {
         System.out.println("Welcome to the 'Math Operations!'");
