@@ -1,0 +1,23 @@
+Variable Definition by Dmitry Artemev
+
+
+int countShipsInPort (количество кораблей в порту)
+int counterInteger (счетчик целых чисел)
+int numberFirst (первое число)
+String answer (ответ на вопрос)
+double numberRandom (случайное число)
+double numberRandomGenerator (генератор случайных чисел)
+String carColor (цвет автомобиля)
+float carSpeed (скорость автомобиля)
+double userEnteredNumber (введенное пользователем число)
+long numberMax (наибольшее число)
+long numberMin (наименьшее число)
+int numberFirstFromRange (левая граница диапазона чисел)
+int numberLastFromRange (правая граница диапазона чисел)
+double userInventedNumber (загаданное пользователем число)
+String answerChoise (вариант ответа)
+int bankAccount (банковский счет)
+double bankAccountBalance (банковский баланс)
+int creditCard (кредитная карта)
+byte bicycleWheelsCount (количество колес у велосипеда)
+double ticketCost (цена билета)
