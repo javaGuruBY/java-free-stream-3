@@ -7,11 +7,13 @@ public class RandomGeneratotDemo {
         Random randomGenerator = new Random();
         int unboundRandom = randomGenerator.nextInt();
         int boundRandom = randomGenerator.nextInt(15);
-        int thirddRandom = randomGenerator.nextInt(101);
+        int thirdRandom = randomGenerator.nextInt(101);
 
         System.out.println("unboundRandom = " + unboundRandom);
         System.out.println("boundRandom = " + boundRandom);
-        System.out.println("thirdRandom = " + thirddRandom);
+        System.out.println("thirdRandom = " + thirdRandom);
 
-    }
+        System.out.println("Sum of random numbers = " + (unboundRandom+boundRandom+thirdRandom));
+
+         }
 }
