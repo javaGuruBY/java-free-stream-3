@@ -1,0 +1,20 @@
+int shipsNumberInPort //Количество кораблей в порту
+long intCounter //Счетчик целых чисел
+int firstIntNumber //Первое целое число
+long randomIntNumber //Случайное целое число
+long randomIntNumber //Случайное вещественное число
+float carSpeed //Скорость движения автомобиля
+int userEnteredIntNumber //Введенное пользователем целое число
+int largestIntNumber //Наибольшее целое число
+double smallestRealNumber //Наименьшее вещественное число
+int leftBorderOfIntNumbersRange //Левая граница диапазона целых чисел
+int rightBorderOfIntNumbersRange //Правая граница диапазона целых чисел
+long userDefinedIntNumber //Загаданное пользователем целое число
+float moneyBalance //Денежный баланс
+short bicycleWheelAmount //Количество колес у велосипеда
+float ticketPrice //Стоимость билета
+boolean parityCheck //Четное ли число
+boolean hungryCheck //Голодный ли человек
+char latinLetter //Символ латинского алфавита
+short currentYear //Текущий год
+char spaceSign //Знак пробела; example: char spaceSign = "\u0009";
