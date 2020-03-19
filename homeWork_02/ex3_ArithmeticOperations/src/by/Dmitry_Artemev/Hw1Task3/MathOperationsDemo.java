@@ -4,7 +4,7 @@ public class MathOperationsDemo {
     public static void main(String[] args) {
         System.out.println("Welcome to the demonstration of mathematical operations!");
         //Addition
-        System.out.println("Addition:");
+        System.out.println("Addition: ");
         int summandFirst = 1;
         int summandSecond = 2;
         System.out.println("First summand is: " + summandFirst);
@@ -13,7 +13,7 @@ public class MathOperationsDemo {
         System.out.println("##########");
 
         //Subtraction
-        System.out.println("Subtraction:");
+        System.out.println("Subtraction: ");
         float minuend = 3.5f;
         float subtrahend = 2.3f;
         System.out.println("Minuend is: " + minuend);
@@ -22,7 +22,7 @@ public class MathOperationsDemo {
         System.out.println("##########");
 
         //Multiplication
-        System.out.println("Multiplication:");
+        System.out.println("Multiplication: ");
         short multiplicanda = 2;
         short multiplier = 4;
         System.out.println("Multiplicanda is: " + multiplicanda);
@@ -31,7 +31,7 @@ public class MathOperationsDemo {
         System.out.println("##########");
 
         //Division
-        System.out.println("Division:");
+        System.out.println("Division: ");
         double dividend = 8.44;
         double divisor = 2.0;
         System.out.println("Dividend is: " + dividend);
