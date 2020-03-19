@@ -1,3 +1,5 @@
+package Pasha_VinnikovHw2Task4;
+
 public class RandomGeneratorDemo1 {
     public static void main(String[] args) {
         int x = (int) (Math.random() * 31);
