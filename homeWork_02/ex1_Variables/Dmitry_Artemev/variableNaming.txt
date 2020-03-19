@@ -1,0 +1,23 @@
+Variable Naming by Dmitry Artemev
+
+
+countShipsInPort      (количество кораблей в порту)
+counterInteger        (счетчик целых чисел)
+numberFirst           (первое число)
+answer                (ответ на вопрос)
+numberRandom          (случайное число)
+numberRandomGenerator (генератор случайных чисел)
+carColor              (цвет автомобиля)
+carSpeed              (скорость автомобиля)
+userEnteredNumber     (введенное пользователем число)
+numberMax             (наибольшее число)
+numberMin             (наименьшее число)
+numberFirstFromRange  (левая граница диапазона чисел)
+numberLastFromRange   (правая граница диапазона чисел)
+userInventedNumber    (загаданное пользователем число)
+answerChoise          (вариант ответа)
+bankAccount           (банковский счет)
+bankAccountBalance    (банковский баланс)
+creditCard            (кредитная карта)
+bicycleWheelsCount    (количество колес у велосипеда)
+ticketCost            (цена билета)
