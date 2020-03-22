@@ -1,12 +1,12 @@
  numberOfShips 		    Количество кораблей в порту
- counter 			        Счетчик целых чисел
- firstNumber 			    Первое число
+ wholeNumberCounter 			        Счетчик целых чисел
+ firstWholeNumber 			    Первое целое число
  answer 			        Ответ на вопрос
  randomNumber 		    Случайное число
  randomNumberGenerator	Генератор случайных чисел
  carColour			      Цвет автомобиля
  carSpeed 			      Скорость движения автомобиля
- userNumber 			    Введеное число пользователем
+ userEnteredNumber 			    Введеное число пользователем
  highestNumber		    Наибольшее число
  lowestNumber 		    Наименьшее число
  leftBorderNumberRange 	Левая граница диапазона чисел
@@ -16,5 +16,5 @@
  bankAccount 			    Банковский счет
  bankBalance 			    Банковский баланс
  creditCard 			    Кредитная карта
- nuberOfWheels 		    Количество колес у велосипеда
+ nuberOfBicycleWheels 		    Количество колес у велосипеда
  ticketCost 			    Стоимость билета
