@@ -1,7 +1,7 @@
 class Dog {
-    public int age = 13;
-    public String color = "grey";
-    public String name = "Dog de La Rochefoucauld";
+    int age = 13;
+    String color = "grey";
+    String name = "Dog de La Rochefoucauld";
 
     void voice() {
         System.out.println("My native language is Bowwow!");
