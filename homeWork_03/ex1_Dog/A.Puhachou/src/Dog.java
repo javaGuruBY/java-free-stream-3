@@ -12,6 +12,6 @@ class Dog {
     }
 
     void sleep() {
-        System.out.print("And then go sleep. Au revoir!");
+        System.out.print("And then go to sleep. Au revoir!");
     }
 }
