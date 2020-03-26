@@ -8,6 +8,5 @@ public class DogDemo {
         Dog.voice();
         Dog.eat();
         Dog.sleep();
-
     }
 }

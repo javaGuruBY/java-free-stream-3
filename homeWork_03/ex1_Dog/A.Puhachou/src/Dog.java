@@ -3,22 +3,15 @@ class Dog {
     public String color = "grey";
     public String name = "Dog de La Rochefoucauld";
 
-    void voice () {
+    void voice() {
         System.out.println("My native language is Bowwow!");
     }
-    public void eat () {
-        System.out.println("I wannar eat");
+
+    void eat() {
+        System.out.println("I wanna eat");
     }
-    public void sleep () {
+
+    void sleep() {
         System.out.print("And then go sleep. Au revoir!");
-
     }
-
-
-
-
-
-
-
-
 }
