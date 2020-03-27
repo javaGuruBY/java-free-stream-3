@@ -23,3 +23,4 @@ public class DogDemo {
         System.out.println("Имя первой собаки " + dog3.getName() + ", его цвет" + dog3.getColor() + ", ему " + dog3.getAge() + " год(а)\n");
     }
 }
+
