@@ -1,6 +1,6 @@
  package by.Kaz.Hw3Task1;
 
-    public class Dog {
+    public class Dog{
 
         private String name;
         private String color;
